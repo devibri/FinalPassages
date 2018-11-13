@@ -235,7 +235,7 @@
         <li>Options
             <ul>
                 <li>
-                    <input id="chHisto" type="checkbox" checked="checked">
+                    <input id="chHisto" type="checkbox">
                     <label for="chHisto">Show histogram</label>
                 </li>
                 <li>
@@ -2315,7 +2315,7 @@ var ONE_SECOND = 1000,
         if (document.location.href.indexOf('visualizing.org') > -1)
             d3.csv("/sites/default/files/data_set/admin/sprint_major-contract-awards-2013.csv", request);
         else
-			d3.csv(fy + '.csv', request);            
+			d3.csv(fy + '.csv', request);
     });
 
 })();
