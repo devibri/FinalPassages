@@ -1,0 +1,7 @@
+VoyageID = our unique identification number for each voyage. 
+YearAM = the year of the voyage
+Rig = the type of ship 
+ShipName = the ship’s name, of course
+CaptainA = the ship’s captain at the outset of the voyage (usually for the whole voyage)
+Slaximp = the estimated number of captives on board at the vessel’s departure from Jamaica
+MJSELIMP = the colony where we believe most (usually all) captives disembarked from the voyage
